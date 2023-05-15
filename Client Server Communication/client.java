@@ -15,6 +15,7 @@ class client{
 			
 		} catch (Exception e) {
 			// TODO: handle exception
+			System.out.println(e);
 		}
 
 
